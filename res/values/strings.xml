@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Compte Courant</string>
+    
+    <!-- Sections de la navigation bar -->    
+		<string-array name="title_array">
+	    <item>Accueil</item>
+	    <item>Revenus</item>
+	    <item>Dépenses fixes</item>
+	    <item>Consommation</item>
+	    <item>Economies</item>
+	    <item>Prévisions</item>
+	    <item>A propos</item>
+		</string-array>
+		
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="not_connected">Non connecté</string>
+    <string name="accueil_etat_compte">Etat du compte</string>
+    <string name="version_label">Version</string>
+    <string name="website_label">Site web</string>
+    <string name="category">Catégorie</string>
+    <string name="amount">Montant</string>
+    <string name="cancel">Annuler</string>
+    <string name="ok">OK</string>
+    <string name="modify">Modifier</string>
+    <string name="settings">Réglages</string>
+    <string name="add">Ajouter</string>
+    <string name="categorie_montant">Catégorie / Montant</string>
+    <string name="plus">+</string>
+
+</resources>

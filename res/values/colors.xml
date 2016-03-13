@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="background_color_blue">#5ea2e1</color>
+    <color name="background_color_blue_bright">#6eabe4</color>
+    
+    <color name="button_color_blue">#25405a</color>
+    <color name="button_color_blue_gradient">#386187</color>
+    <color name="button_color_blue_stroke">#4b81b4</color>
+    <color name="button_color_blue_dark">#1c3043</color>
+    <color name="button_color_blue_bright">#6eabe4</color>
+    
+    <color name="button_color_green">#00cc66</color>
+    <color name="button_color_green_dark">#003d1e</color>
+    <color name="button_color_green_gradient">#14a75d</color>
+    <color name="button_color_green_stroke">#99eac1</color>
+    <color name="button_color_green_bright">#66e0a3</color>
+    
+    <color name="button_color_red">#ff3333</color>
+    <color name="button_color_red_dark">#4c0f0f</color>
+    <color name="button_color_red_gradient">#cc2828</color>
+    <color name="button_color_red_stroke">#721616</color>
+    <color name="button_color_red_bright">#ffadad</color>
+    
+</resources>
